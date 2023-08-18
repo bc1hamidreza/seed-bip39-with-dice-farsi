@@ -1,2 +1,3 @@
-# bip39-seed-with-dice-farsi
-  نحوه ساخت یک کیف پول بیت کوین با استفاده از تاس و استانداردbip39
+Making a seed word for bitcoin with bip-39 farsi
+نحوه ساخت یک کیف پول بیت کوین با استفاده از تاس و استاندارد bip-39
+![Screenshot](screen-shot.jpg)
